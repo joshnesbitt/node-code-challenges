@@ -33,8 +33,8 @@ Sharing your solution helps other people learn. To share a solution:
 
 ## Hall of fame
 
-1. @joshnesbitt
-1. @joshnesbitt
-1. @joshnesbitt
-1. @joshnesbitt
-1. @joshnesbitt
+1. [@joshnesbitt](https://github.com/joshnesbitt)
+1. [@joshnesbitt](https://github.com/joshnesbitt)
+1. [@joshnesbitt](https://github.com/joshnesbitt)
+1. [@joshnesbitt](https://github.com/joshnesbitt)
+1. [@joshnesbitt](https://github.com/joshnesbitt)
