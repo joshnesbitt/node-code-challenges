@@ -1,0 +1,18 @@
+{
+  "name": "code-challenges",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "tap-spec": "^5.0.0",
+    "tape": "^5.0.1"
+  },
+  "scripts": {
+    "challenge:all": "node challenges/*/index.test.js | tap-spec",
+    "challenge:bill": "node challenges/bill/index.test.js | tap-spec",
+    "challenge:square": "node challenges/square/index.test.js | tap-spec"
+  },
+  "author": "",
+  "license": "ISC"
+}
