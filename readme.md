@@ -15,7 +15,7 @@ npm install
 npm run challenge:NAME
 ```
 
-So, to run the square challenge you would edit `./challenges/square/index.js` and run `npm run challenge:square`.
+So, to run the bill challenge you would edit `./challenges/bill/index.js` and run `npm run challenge:bill`.
 
 To run all challenges:
 
@@ -33,8 +33,8 @@ Sharing your solution helps other people learn. To share a solution:
 
 ## Hall of fame
 
-1. [@joshnesbitt](https://github.com/joshnesbitt)
-1. [@joshnesbitt](https://github.com/joshnesbitt)
-1. [@joshnesbitt](https://github.com/joshnesbitt)
-1. [@joshnesbitt](https://github.com/joshnesbitt)
-1. [@joshnesbitt](https://github.com/joshnesbitt)
+* [@joshnesbitt](https://github.com/joshnesbitt)
+* [@joshnesbitt](https://github.com/joshnesbitt)
+* [@joshnesbitt](https://github.com/joshnesbitt)
+* [@joshnesbitt](https://github.com/joshnesbitt)
+* [@joshnesbitt](https://github.com/joshnesbitt)
